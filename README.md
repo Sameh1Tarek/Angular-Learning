@@ -1,7 +1,7 @@
 <h1 align="center">Angular - The modern web developer's platform</h1>
 
 <p align="center">
- <img src="https://github.com/Sameh1Tarek/Angular-Learning/assets/108232157/443fc574-2ba7-429a-b5eb-bc7aef37ddc6" alt="angular-logo" width="120px" height="120px"/>
+ <img src="https://github.com/Sameh1Tarek/Angular-Learning/assets/108232157/150f3465-64b7-4991-bdc9-b4bd43191f1f" alt="angular-logo" width="120px" height="120px"/>
   <br>
   <em>Angular is a development platform for building mobile and desktop web applications
     <br> using TypeScript/JavaScript and other languages.</em>
@@ -97,7 +97,7 @@ Angular is cross-platform, fast, scalable, has incredible tooling, and is loved 
 ## Ecosystem
 
 <p>
- <img src="https://github.com/Sameh1Tarek/Angular-Learning/assets/108232157/eae4d69b-b67c-4cfd-9d85-efbf0611dd8e" alt="angular ecosystem logos" width="500px" height="auto">
+ <img src="https://github.com/Sameh1Tarek/Angular-Learning/assets/108232157/59dc9686-bf44-4d33-a1c1-c487695e2a96" alt="angular ecosystem logos" width="500px" height="auto">
 </p>
 
 - [Angular Command Line (CLI)][cli]
